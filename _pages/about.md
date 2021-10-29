@@ -2,23 +2,24 @@
 layout: about
 title: about
 permalink: /
-description: <a href="#">Affiliations</a>. Address. Contacts. Moto. Etc.
+description: <a href="https://dc.exa.unrc.edu.ar">National University of de Río Cuarto</a>. 
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: GermanFoto.jpg
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Box A13 - Department of Computer Science</p>
+    <p>Ruta 36 Km 601</p>
+    <p>Río Cuarto, Córdoba</p>
+    <p>Argentina</p>
 
 news: true  # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am Lecturer (Adjunt Profesor) at Department of Computer Sciences at National University of de Río Cuarto.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I got my degree in Computer Sciences in 2005 at the Department of Computer Sciences at National University of de Río Cuarto, and in 2014 I got my PhD. from  University of Buenos Aires. I had a Phd Scolarship from CONICET (Argentina’s National Research Council)
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+My main area of interest is the application of technical and logical-mathematical tools (formal methods) for the specification, design, analysis and verification of software at its differents stages of development.
