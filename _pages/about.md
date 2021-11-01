@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-description: <a href="https://dc.exa.unrc.edu.ar">National University of de Río Cuarto</a>. 
+description: <a href="https://dc.exa.unrc.edu.ar">National University of Río Cuarto</a>. 
 
 profile:
   align: right
