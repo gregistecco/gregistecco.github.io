@@ -17,4 +17,4 @@ nav: true
 
 
 #### **List of courses taught as Visiting Professor**
-**Desing & Verification of Concurrent Programs** (15 hs) october 2021 (National University of Salta, Argentina)
+**Design & Verification of Concurrent Programs** (15 hs) october 2021 (National University of Salta, Argentina)
