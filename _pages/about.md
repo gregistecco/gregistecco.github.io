@@ -6,7 +6,7 @@ description: <a href="https://dc.exa.unrc.edu.ar">National University of Río Cu
 
 profile:
   align: right
-  image: GermanFoto.jpg
+  image: GermanFoto2.jpg
   address: >
     <p>Box A13 - Department of Computer Science</p>
     <p>Ruta 36 Km 601</p>
